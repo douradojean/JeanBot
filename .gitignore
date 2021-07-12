@@ -1,0 +1,13 @@
+suites/cadastros auxiliares/sikuli_captured
+.idea
+*.html
+*.xml
+.vscode
+sikuli_captured
+log.html
+output.xml
+report.xml
+classes/__pycache__
+classes/GetClipboard.pyc
+.vs/
+results/
